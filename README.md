@@ -52,7 +52,7 @@ Record of my CS50x labs and problem sets:
 ## Week 2: Arrays
 ### Lab 2
 
-#### Srabble
+#### Scrabble
   - Language: C
   - Objectives: Complete the implementation of scrabble.c, such that it determines the winner of a short scrabble-like game, where two players each enter their word, and the higher scoring player wins.
   - [File Link](https://github.com/bananafeller/cs50/blob/b543302366cb6cfbeab6fb47ccd95929328bffce/w2-Arrays/lab2/scrabble/scrabble.c)
