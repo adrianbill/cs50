@@ -73,7 +73,7 @@ Record of my CS50x labs and problem sets:
   - [CS50x Link](https://cs50.harvard.edu/x/2021/psets/2/substitution/)
  
  ## Week #: Title
-### Lab #
+### Lab \#
 
 #### Name
   - Language: 
@@ -81,7 +81,7 @@ Record of my CS50x labs and problem sets:
   - [File Link]()
   - [CS50x Link]()
 
-### Problem Set #
+### Problem Set \#
 
 #### Name
   - Language: 
